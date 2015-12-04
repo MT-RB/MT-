@@ -32,6 +32,6 @@ links:
   github: username
 
 ##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
-about_image: http://orig06.deviantart.net/6f9b/f/2014/113/1/4/terrorblade_dota_2_steam_avatar_by_mawpls-d7fmszt.jpg
+about_image: http://www.webdesignerhelp.co.uk/wp-content/uploads/2009/05/bananasontoast.png
 ##comment this if you want full width posts with no sidebar
 sidebar: on
