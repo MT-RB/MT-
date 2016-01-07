@@ -1,5 +1,5 @@
 ---
-title: Untitled document
+title: This is a test
 layout: post
 author: max.buckland
 permalink: /untitled-document/
@@ -8,5 +8,5 @@ published: true
 ---
 **_This is a test_**
 
-*Please believe me *
+*I'm going to post some work and other things on this page.*
 
